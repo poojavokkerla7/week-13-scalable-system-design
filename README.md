@@ -85,24 +85,5 @@ The system follows a distributed architecture with multiple layers:
 ---
 
 ##  Project Structure
-week-13-scalable-system-design/
-│
-├── README.md
-├── architecture-diagram.md
-├── scalability-documentation.md
-├── technical-presentation.md
-│
-├── diagrams/
-│ ├── high-level-architecture.png
-│ ├── load-balancer.png
-│ ├── caching-layer.png
-│ └── database-scaling.png
-│
-├── docs/
-│ ├── system-design-notes.md
-│ ├── scalability-strategies.md
-│ └── architecture-decisions.md
-│
-└── assets/
-├── screenshots/
+
 └── references.md
