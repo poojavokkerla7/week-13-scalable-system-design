@@ -84,6 +84,3 @@ The system follows a distributed architecture with multiple layers:
 
 ---
 
-##  Project Structure
-
-└── references.md
